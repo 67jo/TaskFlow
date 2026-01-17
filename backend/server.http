@@ -1,0 +1,8 @@
+POST http://127.0.0.1:8000/api/user/
+Content-Type: application/json
+
+{
+    "name":"Mpaka José",
+    "email":"jompaka68@gmail.com",
+    "password":"123123"
+}
