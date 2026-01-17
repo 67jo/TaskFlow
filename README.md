@@ -23,7 +23,7 @@ A estrutura permite:
 ### 🔙 Backend
 - **Node.js + Express** — Servidor e gerenciamento de rotas
 - **TypeScript** — Linguagem base para maior segurança e tipagem
-- **Prisma ORM + PostgreSQL** — Modelagem e persistência de dados
+- **MySQL** — Modelagem e persistência de dados
 - **JWT (JSON Web Token)** — Autenticação de rotas protegidas
 
 ### 🎨 Frontend
