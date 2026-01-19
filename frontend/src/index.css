@@ -11,8 +11,17 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #ececec;
+    background-color: #f1f5f9;
+}
+#dashgrid{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
 }
 .w-99{
     width: 550px;
+}
+.shadowcircle{
+    box-shadow: 1px 1px 4px rgb(214, 214, 214);
 }
